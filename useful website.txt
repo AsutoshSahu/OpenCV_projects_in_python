@@ -1,0 +1,5 @@
+Visit websites for opencv documentation
+
+https://docs.opencv.org/3.4/d1/de5/classcv_1_1CascadeClassifier.html
+https://docs.opencv.org/3.4/d1/de5/classcv_1_1CascadeClassifier.html#aaf8181cb63968136476ec4204ffca498
+
